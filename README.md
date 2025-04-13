@@ -9,7 +9,7 @@ Advantages of Vertical Slice Architecture:
 - Command and Query Responsibility Segregation
 - Feature Grouping
   ### Vertical Slice Architecture with Minimal API
-  <img src="https://github.com/user-attachments/assets/caaaec5f-3158-47c2-b502-b99f8afda969" alt="vertical-slice-architecture" height="450"/>
+  <img src="https://github.com/user-attachments/assets/caaaec5f-3158-47c2-b502-b99f8afda969" alt="vertical-slice-architecture" height="450" allign="center"/>
 
 
 ## 🚀 Features
